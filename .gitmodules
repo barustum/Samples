@@ -1,0 +1,3 @@
+[submodule "Samples-Submodules"]
+	path = Samples-Submodules
+	url = https://github.com/barustum/Samples-Submodules
